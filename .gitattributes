@@ -1,0 +1,2 @@
+src/Books/Nursery/NurseryPdfs/2In1RhymesA.pdf filter=lfs diff=lfs merge=lfs -text
+src/Books/Nursery/NurseryPdfs/MyFootingAlphabet.pdf filter=lfs diff=lfs merge=lfs -text

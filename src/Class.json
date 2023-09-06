@@ -1,0 +1,63 @@
+[
+  {
+    "classCategory": "Nursery",
+    "direct": "/books/nursery",
+    "id": "1"
+  },
+  {
+    "classCategory": "LKG",
+    "direct": "/books/lkg",
+    "id": "2"
+  },
+  {
+    "classCategory": "UKG",
+    "direct": "/books/Ukg",
+    "id": "3"
+  },
+  {
+    "classCategory": "1",
+    "direct": "/books/1",
+
+    "id": "4"
+  },
+  {
+    "classCategory": "2",
+    "direct": "/books/2",
+
+    "id": "5"
+  },
+  {
+    "classCategory": "3",
+    "direct": "/books/3",
+    "id": "6"
+  },
+  {
+    "classCategory": "4",
+    "direct": "/books/4",
+    "id": "7"
+  },
+  {
+    "classCategory": "5",
+    "direct": "/books/5",
+
+    "id": "8"
+  },
+  {
+    "classCategory": "6",
+    "direct": "/books/6",
+
+    "id": "9"
+  },
+  {
+    "classCategory": "7",
+    "direct": "/books/7",
+
+    "id": "10"
+  },
+  {
+    "classCategory": "8",
+    "direct": "/books/8",
+
+    "id": "11"
+  }
+]
